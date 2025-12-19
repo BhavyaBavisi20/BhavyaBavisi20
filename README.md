@@ -27,9 +27,3 @@ Aspiring Software Development Intern (AI)
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/bhavya-bavisi
 - Email: bhavyabavisi40@gmail.com
-
-
-
-
-- LinkedIn: (add link)
-- Email: (optional)
