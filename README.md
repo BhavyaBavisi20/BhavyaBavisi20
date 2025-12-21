@@ -1,29 +1,116 @@
-# Hi 👋 I'm Bhavya Bavisi  
+<!-- ======================= INTRO + TYPING ======================= -->
 
-🎓 AI & Data Science Student | 💻 ML & Data Visualization Enthusiast  
-🚀 Aspiring Software Development Intern (AI)  
+<h1 align="center">Hey 👋 I'm Bhavya Bavisi</h1>
 
-## 👨‍💻 About Me
-- AI & DS student at Sarvajanik College of Engineering & Technology
-- Strong in Machine Learning, Data Science, NLP, and Visualization
-- Built end-to-end projects using Python, ML, and Web Tech
-- Passionate about solving real-world problems using AI
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+NLP+%7C+Data+Visualization;Building+Real-World+AI+Systems;Learning+by+Building+Every+Day&center=true&width=650&height=45&color=58A6FF">
+</p>
+
+<!-- ======================= STORY INTRO ======================= -->
+
+Welcome to my GitHub.
+
+My journey began with a simple curiosity —  
+**how does data learn to think?**
+
+That curiosity slowly turned into writing Python scripts,  
+training machine learning models,  
+teaching systems to understand patterns,  
+and finally building **end-to-end AI applications** 
+
+Today, I enjoy transforming raw data into intelligence,  
+ideas into working systems,  
+and problems into **practical AI solutions**.
+
+This GitHub is my workspace —  
+where I learn, build, break, fix, and repeat 
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
 
 ## 🛠️ Tech Stack
-- Languages: Python, JavaScript, SQL
-- ML/DL: Scikit-learn, TensorFlow, Keras
-- Data: Pandas, NumPy, Matplotlib, Seaborn
-- Web: HTML, CSS, JavaScript, MERN (learning)
-- Tools: Git, GitHub, Jupyter, Streamlit
 
-## 📌 Featured Projects
-- **Financial Forecasting** – ML-based financial trend prediction  
-- **Movie Recommendation System** – Content-based & collaborative filtering  
-- **DocTalk-AI** – AI-powered document interaction system  
+### 👨‍💻 Languages & Core
+![Skills](https://skillicons.dev/icons?i=python,js,html,css,sql&theme=dark)
 
-## 📊 GitHub Stats
+### 🤖 AI / ML / Data
+![Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark)
+
+### 🌐 Tools & Platforms
+![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
+
+## 🚀 Things I’ve Built
+
+Every project here started with one question:  
+**Can AI actually help solve this?**
+
+Turns out — yes, with the right approach ☕
+
+### 🤟 Indian Sign Language (ISL) Recognition
+An AI-powered system that understands **Indian Sign Language gestures**  
+by learning motion patterns and visual cues.
+
+- Focus: Gesture recognition & sequence modeling  
+- Domain: Computer Vision & Deep Learning  
+- Purpose: Making communication more inclusive  
+
+---
+
+### 🎗️ Breast Cancer Prediction System
+A machine learning model designed to assist in **early detection of breast cancer**  
+by analyzing critical medical features.
+
+- Focus: Healthcare AI & classification  
+- Domain: Machine Learning & Data Analysis  
+- Purpose: Supporting data-driven medical decisions  
+
+---
+
+### 📄 DocTalk-AI
+An intelligent system that lets users **talk to documents** instead of reading them.
+
+- Upload documents, ask questions, get contextual answers  
+- Domain: NLP & AI-powered document interaction  
+- Purpose: Faster, smarter information retrieval  
+
+---
+
+### 🕹️ Retro Revival – AI-Assisted Tetris
+A **retro-themed Tetris game** reimagined with modern AI assistance.
+
+- Classic pixel-art inspired UI  
+- AI logic enhances gameplay decisions  
+- Domain: Game Logic, JavaScript, AI concepts  
+- Purpose: Blending nostalgia with intelligence 🎮  
+
+---
+
+<!-- ======================= STATS ======================= -->
+
+## 📈 GitHub Activity
+
 ![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaBavisi20&show_icons=true&theme=tokyonight)
 
-## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (optional)
+---
+
+<!-- ======================= SIGNATURE ======================= -->
+
+Always curious.  
+Always learning.  
+Always building.
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhavya-bavisi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:bhavyabavisi40@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
